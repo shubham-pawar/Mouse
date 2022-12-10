@@ -1,6 +1,6 @@
 # [Mouse](https://github.com/shubham-pawar/Mouse)
 
-You can keep your screen awake by using simple python program.
+You can keep your screen awake by using mouse moving bot python program.
 
 ## [MOUSE MOVING BOT](https://github.com/shubham-pawar/Mouse)
 
